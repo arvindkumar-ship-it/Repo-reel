@@ -1,0 +1,22 @@
+:root {
+  --bg: #fbfaf7;
+  --surface: #fff;
+  --surface-muted: #f6f4ef;
+  --surface-sunk: #f1eee7;
+  --border: #e9e5dd;
+  --border-strong: #d9d4c8;
+  --ink-900: #22222a;
+  --ink-700: #4a4a55;
+  --ink-500: #6b6b76;
+  --ink-400: #9a9aa3;
+  --primary: #2b4570;
+  --accent-warm: #f6b183;
+  --sky: #dcebfb;
+  --mint: #d8f1e6;
+  --sage: #ddf0d6;
+  --lavender: #e8e4fa;
+  --butter: #fbf0bb;
+  --blush: #fde3ea;
+  --radius: 8px;
+  --ease: cubic-bezier(0.2, 0.8, 0.2, 1);
+}
